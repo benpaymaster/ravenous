@@ -18,4 +18,9 @@ Ravenous is a responsive restaurant discovery application built with **React**. 
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/benpaymaster/ravenous.git](https://github.com/benpaymaster/ravenous.git)
+   git clone https://github.com/benpaymaster/ravenous.git
+   ```
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
