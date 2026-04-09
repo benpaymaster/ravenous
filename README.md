@@ -24,3 +24,5 @@ Ravenous is a responsive restaurant discovery application built with **React**. 
    ```bash
    npm install
    ```
+   npm start
+   ```
